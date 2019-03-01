@@ -1,8 +1,10 @@
 HELP.md
+/classes/
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
+.gitignore
 .apt_generated
 .classpath
 .factorypath
